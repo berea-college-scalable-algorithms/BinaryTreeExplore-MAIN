@@ -1,6 +1,6 @@
 # BinaryTreeExplore-MAIN
 
-# To compite and run:
+# To compile and run:
 
 - javac Main.java
 - java BinaryTree
