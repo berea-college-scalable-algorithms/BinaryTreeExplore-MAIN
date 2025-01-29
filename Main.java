@@ -26,8 +26,7 @@ class BinaryTree {
       traverseTree(node.right);
     }
   }
-
-  public static void Main(String[] args) {
+  public static void main(String[] args) {
     // Create an object of BinaryTree
     BinaryTree tree = new BinaryTree();
 
